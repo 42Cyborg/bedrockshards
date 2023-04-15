@@ -2,6 +2,6 @@
   "parent":"item/handheld",
   "textures":
   {
-    "layer0":"bedrockbreakers:item/obsidian_infused_diamond"
+    "layer0":"bedrockshards:item/obsidian_infused_diamond"
   }
 }

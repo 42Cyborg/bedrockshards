@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "bedrockshards:pure_bedrock"
+    },
+    "D": {
+      "item": "bedrockshards:obsidian_infused_diamond"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XDX",
+    "XXX"
+  ],
+  "result": {
+    "item": "bedrockshards:bedrock_plated_obsidian_infused_diamond"
+  }
+}

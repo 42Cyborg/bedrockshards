@@ -2,6 +2,6 @@
   "parent":"item/handheld",
   "textures":
   {
-    "layer0":"bedrockbreakers:item/bedrock_shard"
+    "layer0":"bedrockshards:item/bedrock_shard"
   }
 }
