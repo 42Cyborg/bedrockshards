@@ -1,0 +1,11 @@
+{
+  "item.bedrockbreakers.obsidian_infused_diamond_breaker": "Obsidian Infused Breaker",
+  "item.bedrockbreakers.bedrock_plated_obsidian_infused_diamond_breaker": "Bedrock Plated Breaker",
+  "item.bedrockbreakers.bedrock_plated_obsidian_infused_diamond": "Bedrock Plated, Obsidian Infused-Diamond",
+  "item.bedrockbreakers.obsidian_infused_diamond": "Obsidian Infused-Diamond",
+  "item.bedrockbreakers.bedrock_shard": "Bedrock Shard",
+  "tooltip.obsidianinfuseddiamond.breaker" : "Only as good as your hand except on the unbreakable",
+  "block.bedrockbreakers.pure_bedrock": "Pure Bedrock",
+  "block.bedrockbreakers.pure_obsidian": "Pure Obsidian",
+  "itemGroup.bedrockbreakers.oid": "Bedrock Breakers"
+}
